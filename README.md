@@ -6,3 +6,9 @@
 
 # code : NH_투자증권 보유기간 예측 코드
 이는 세부적인 예측 코드입니다.
+
+# data : price_data_daily / randomdata
+
+price_data_daily : 전 주식 종목의 일간 종가를 가져왔습니다.
+
+randomdata : 고객의 중도 보유일을 랜덤값으로 picking한 결과치입니다.
